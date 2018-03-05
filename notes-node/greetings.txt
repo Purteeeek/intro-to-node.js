@@ -1,1 +1,1 @@
-Hello WorldHello WorldHello Konoha
+Hello WorldHello WorldHello KonohaHello Konoha age is 25Hello Konoha age is undefined
